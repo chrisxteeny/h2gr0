@@ -1,0 +1,65 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "lauratran3495@gmail.com",
+    "longName": "H2GR0",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/ADULT2.png",
+                "name": "IMAGE_ADULT_2",
+                "type": "png"
+            },
+            {
+                "file": "images/ADULT1.png",
+                "name": "IMAGE_ADULT_1",
+                "type": "png"
+            },
+            {
+                "file": "images/TEEN2.png",
+                "name": "IMAGE_TEEN_2",
+                "type": "png"
+            },
+            {
+                "file": "images/TEEN1.png",
+                "name": "IMAGE_TEEN_1",
+                "type": "png"
+            },
+            {
+                "file": "images/TODDLER2.png",
+                "name": "IMAGE_TODDLER_2",
+                "type": "png"
+            },
+            {
+                "file": "images/TODDLER1.png",
+                "name": "IMAGE_TODDLER_1",
+                "type": "png"
+            },
+            {
+                "file": "images/BABY2.png",
+                "name": "IMAGE_BABY_2",
+                "type": "png"
+            },
+            {
+                "file": "images/BABY1.png",
+                "name": "IMAGE_BABY_1",
+                "type": "png"
+            },
+            {
+                "file": "images/splash.png",
+                "name": "IMAGE_SPLASH",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "H2GR0",
+    "uuid": "0d30d275-9bb8-4bec-96c0-0078e9ed1f43",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
